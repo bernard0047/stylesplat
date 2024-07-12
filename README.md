@@ -1,4 +1,4 @@
-# Nerfies
+# StyleSplat
 
 This is the repository that contains source code for the [StyleSplat website](https://stylesplat.github.io).
 
